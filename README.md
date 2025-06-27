@@ -47,4 +47,5 @@ Output
 ![image alt](https://github.com/CTT-Vaishnavi/REAL-TIME-CHAT-APPLICATION/blob/main/images/Output.png)
 ![img alt](https://github.com/CTT-Vaishnavi/REAL-TIME-CHAT-APPLICATION/blob/main/images/Output2.png?raw=true)
 
-![Video control](https://ctt-vaishnavi.github.io/REAL-TIME-CHAT-APPLICATION/)
+## Video Demonstration
+For a video demonstration of the application, please visit the following link: [Video Link](https://ctt-vaishnavi.github.io/REAL-TIME-CHAT-APPLICATION/)
