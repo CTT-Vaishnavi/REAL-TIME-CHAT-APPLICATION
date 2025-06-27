@@ -46,3 +46,5 @@ Option to report issues or suggest new features directly within the app.
 Output
 ![image alt](https://github.com/CTT-Vaishnavi/REAL-TIME-CHAT-APPLICATION/blob/main/images/Output.png)
 ![img alt](https://github.com/CTT-Vaishnavi/REAL-TIME-CHAT-APPLICATION/blob/main/images/Output2.png?raw=true)
+
+![Video control](https://ctt-vaishnavi.github.io/REAL-TIME-CHAT-APPLICATION/)
